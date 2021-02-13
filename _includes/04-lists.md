@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Listado de lenguajes de programación
+
+- PHP
+- Node
+- Javascript
+- Python
